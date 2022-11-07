@@ -7,5 +7,5 @@
 
 ## Like it? Give us a thumbs up. Star this project!
 
-![](https://depends.rpkg.net/assets/rpackagedependency.gif)
+![](https://depends.rpkg.net/assets/rpackagedependency2.gif)
 

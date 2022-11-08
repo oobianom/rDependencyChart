@@ -2,8 +2,7 @@
 
 ## View other R packages that an R package depends on, suggests, imports and enhances. See how this compares with other packages.
 ## Official website: https://depends.rpkg.net
-### Deployed: November 6, 2022
-### Built with: HTML5, cytoscape.js, JQuery, Tailwind
+### Built with: HTML5, PHP, cytoscape.js, JQuery, Tailwind
 
 ## Like it? Give us a thumbs up. Star this project!
 
